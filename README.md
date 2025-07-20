@@ -1,3 +1,4 @@
 # KARTALAM_Website
 Low-Cost Myoelectric  Prosthetic Arm  Solution  :Empowering the disabled by allowing the development of effective prosthetic hands, which can improve the quality of life of people who suffered a hand amputation, which can be used anywhere and anytime.  
 E-commerce website of Kartalam Robotics It is the official website of Kartalam, a social enterprise focused on developing affordable, customizable myoelectric prosthetic hands. This site offers information about our products, FAQs, and contact details, with a commitment to innovation and user-centric design. Anyone can order our prosthetic products directly through the website. Website link : https://kartalam.netlify.app/
+check out website through wordpress http://kartalam.ezyro.com/ , it made on first year with help of teammates 
